@@ -1,5 +1,5 @@
 # async-executor
-A Tokio-inspired asynchronous executor in C.
+A Tokio-inspired asynchronous executor library in C.
 
 Works like this:
 <pre>
